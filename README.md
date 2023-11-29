@@ -19,7 +19,7 @@ Titan Slayer es un juego fuertemente inspirado en Attack on Titan en el que debe
 
 ## Instalación
 
-Simplemente descargalo en tu celular Android desde Play Store.
+Simplemente descargalo en tu celular Android desde Play Store. [Click aquí](https://play.google.com/store/apps/details?id=com.TiLA.TitanRunNew)
 
 ## Problemas y Sugerencias
 
